@@ -1,0 +1,1 @@
+Here are two such squares, and three more. Every tile has exactly the same area: x squared.

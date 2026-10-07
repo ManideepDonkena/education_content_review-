@@ -1,0 +1,357 @@
+Manim Community v0.19.0
+
+[10/06/26 22:36:27] INFO     Writing - to                tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /ba96de15f98acfc8.tex                              
+                    INFO     Writing 3 to                tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /8de07035cb22c903.tex                              
+                    INFO     Writing 2 to                tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /2b7ffb3c38a5a6e0.tex                              
+                    INFO     Writing 1 to                tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /6ecf9f51170c1a70.tex                              
+[10/06/26 22:36:28] INFO     Writing 4 to                tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /31d3165490bf3404.tex                              
+                    INFO     Writing 5 to                tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /5683d89f396abe50.tex                              
+                    INFO     Writing x to                tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /d3c1af651a272204.tex                              
+                    INFO     Writing y to                tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /3ecdda5b14fcaacb.tex                              
+[10/06/26 22:36:29] INFO     Caching disabled.              cairo_renderer.py:79
+Animation 0: Create(Axes of 2 submobjects), etc.:   0%|          | 0/45 [00:00<?, ?it/s]Animation 0: Create(Axes of 2 submobjects), etc.:  93%|█████████▎| 42/45 [00:00<00:00, 409.59it/s]                                                                                                                      INFO     Animation 0 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00000.mp4'                           
+                    INFO     Writing y = x + 1.0 to      tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /2bd83bf4ea9b9976.tex                              
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 1: Write(MathTex('y = x + 1.0')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                      INFO     Animation 1 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00001.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 2: Create(Line):   0%|          | 0/45 [00:00<?, ?it/s]                                                                                     INFO     Animation 2 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00002.mp4'                           
+                    INFO     Writing (0,1) to            tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /86e3b4672fff445a.tex                              
+[10/06/26 22:36:30] INFO     Caching disabled.              cairo_renderer.py:79
+Animation 3: FadeIn(Dot), etc.:   0%|          | 0/45 [00:00<?, ?it/s]Animation 3: FadeIn(Dot), etc.:  91%|█████████ | 41/45 [00:00<00:00, 403.07it/s]                                                                                                    INFO     Animation 3 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00003.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+                    INFO     Animation 4 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00004.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 5: Write(Text('slope m = 1')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                   INFO     Animation 5 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00005.mp4'                           
+                    INFO     Writing \Delta x=1 to       tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /3e108c6caa92c829.tex                              
+                    INFO     Writing \Delta y=1 to       tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /5e6ac4b7b0e0d44f.tex                              
+[10/06/26 22:36:31] INFO     Caching disabled.              cairo_renderer.py:79
+Animation 6: Create(Line), etc.:   0%|          | 0/45 [00:00<?, ?it/s]                                                                                           INFO     Animation 6 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00006.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+                    INFO     Animation 7 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00007.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 8: Write(Text('increase b: line shifts up')):   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                                  INFO     Animation 8 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00008.mp4'                           
+                    INFO     Writing y = x + 2.0 to      tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /684f45a9afdd1fa2.tex                              
+                    INFO     Writing (0,2) to            tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /a7adae8a0b445584.tex                              
+[10/06/26 22:36:32] INFO     Caching disabled.              cairo_renderer.py:79
+Animation 9: Transform(Line), etc.:   0%|          | 0/45 [00:00<?, ?it/s]Animation 9: Transform(Line), etc.:  42%|████▏     | 19/45 [00:00<00:00, 182.19it/s]Animation 9: Transform(Line), etc.:  84%|████████▍ | 38/45 [00:00<00:00, 175.86it/s]                                                                                                        INFO     Animation 9 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00009.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 10: Write(Text('slope still = 1')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                        INFO     Animation 10 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00010.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+                    INFO     Animation 11 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00011.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 12: FadeOut(Text('y-intercept b = 1')), etc.:   0%|          | 0/30 [00:00<?, ?it/s]Animation 12: FadeOut(Text('y-intercept b = 1')), etc.:  53%|█████▎    | 16/30 [00:00<00:00, 151.17it/s]                                                                                                        [10/06/26 22:36:33] INFO     Animation 12 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00012.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 13: Transform(Line), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                               INFO     Animation 13 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00013.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 14: Write(Text('Stage B: vary slope m')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                              INFO     Animation 14 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00014.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 15: Write(Text('b = 1 fixed, pivot at (0,1)')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                                    INFO     Animation 15 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00015.mp4'                           
+                    INFO     Writing y = 0.0x + 1.0 to   tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /50ebfe87e41eec5c.tex                              
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 16: Transform(Line), etc.:   0%|          | 0/45 [00:00<?, ?it/s]Animation 16: Transform(Line), etc.:  38%|███▊      | 17/45 [00:00<00:00, 166.61it/s]Animation 16: Transform(Line), etc.:  76%|███████▌  | 34/45 [00:00<00:00, 160.80it/s]                                                                                     [10/06/26 22:36:34] INFO     Animation 16 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00016.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+                    INFO     Animation 17 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00017.mp4'                           
+                    INFO     Writing y = -x + 1.0 to     tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /784502bacc20d15c.tex                              
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 18: Transform(Line), etc.:   0%|          | 0/45 [00:00<?, ?it/s]Animation 18: Transform(Line), etc.:  33%|███▎      | 15/45 [00:00<00:00, 141.71it/s]Animation 18: Transform(Line), etc.:  67%|██████▋   | 30/45 [00:00<00:00, 138.89it/s]Animation 18: Transform(Line), etc.:  98%|█████████▊| 44/45 [00:00<00:00, 131.36it/s]                                                                                                         INFO     Animation 18 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00018.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+                    INFO     Animation 19 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00019.mp4'                           
+                    INFO     Writing \Delta y=-1 to      tex_file_writing.py:111
+                             renders/sonnet_original/Tex                        
+                             /8d0f6987edc63db3.tex                              
+[10/06/26 22:36:35] INFO     Writing m = \frac{\Delta    tex_file_writing.py:111
+                             y}{\Delta x} = \frac{-1}{1}                        
+                             = -1 to                                            
+                             renders/sonnet_original/Tex                        
+                             /397de1f3ecc65cdf.tex                              
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 20: Create(Line), etc.:   0%|          | 0/30 [00:00<?, ?it/s]                                                                                            INFO     Animation 20 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00020.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 21: Write(MathTex('m = \\frac{\\Delta y}{\\Delta x} = \\frac{-1}{1} = -1')):   0%|          | 0/30 [00:00<?, ?it/s]                                                                                                                                                 INFO     Animation 21 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00021.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+                    INFO     Animation 22 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00022.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 23: Write(Text('b shifts line vertically')):   0%|          | 0/23 [00:00<?, ?it/s]                                                                                                                 INFO     Animation 23 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00023.mp4'                           
+[10/06/26 22:36:36] INFO     Caching disabled.              cairo_renderer.py:79
+Animation 24: Write(Text('m controls steepness & direction')):   0%|          | 0/23 [00:00<?, ?it/s]                                                                                                                         INFO     Animation 24 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00024.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+                    INFO     Animation 25 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00025.mp4'                           
+                    INFO     Combining to Movie file.   scene_file_writer.py:739
+                    INFO                                scene_file_writer.py:886
+                             File ready at                                      
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/so                         
+                             nnet_original/videos/sonne                         
+                             t_original/480p15/SlopeInt                         
+                             erceptDemo.mp4'                                    
+                                                                                
+                    INFO     Rendered SlopeInterceptDemo            scene.py:255
+                             Played 26 animations                               

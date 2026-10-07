@@ -1,0 +1,38 @@
+WEBVTT
+
+00:00:00.400 --> 00:00:06.812
+Why does two x squared plus three x squared equal five x squared?
+Let's make the symbols visible.
+
+00:00:08.033 --> 00:00:13.752
+Take a square with side length x, where x is positive. Its area is
+x squared.
+
+00:00:14.967 --> 00:00:21.289
+Here are two such squares, and three more. Every tile has exactly
+the same area: x squared.
+
+00:00:22.500 --> 00:00:30.182
+Bring them together. Count five identical tiles. We changed how
+many we collected, not the area of each tile.
+
+00:00:31.400 --> 00:00:38.548
+So, two x squared plus three x squared is two plus three, times x
+squared. That is five x squared.
+
+00:00:39.767 --> 00:00:48.173
+This is the distributive law. Add the coefficients, and keep the
+shared variable part unchanged. The identity holds for every real
+x.
+
+00:00:49.400 --> 00:00:56.948
+Addition keeps these terms as x squared. Multiplying x squared by x
+squared is different: that gives x to the fourth.
+
+00:00:58.167 --> 00:01:05.096
+Your turn. What is four x squared plus two x squared? Explain what
+changes, and what stays the same.
+
+00:01:09.500 --> 00:01:18.253
+Six x squared. Four plus two gives six; x squared stays unchanged.
+Like terms combine because their variable parts match.

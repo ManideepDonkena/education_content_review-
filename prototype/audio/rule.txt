@@ -1,0 +1,1 @@
+This is the distributive law. Add the coefficients, and keep the shared variable part unchanged. The identity holds for every real x.

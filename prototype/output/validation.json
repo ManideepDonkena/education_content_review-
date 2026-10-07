@@ -1,0 +1,64 @@
+{
+  "status": "passed",
+  "duration_seconds": 79.467,
+  "resolution": "1280x720",
+  "fps": 30,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "scenes": 9,
+  "equation_identities_checked": 4,
+  "timing_and_boundary_checks": "passed",
+  "full_media_decode": "passed",
+  "audio_signal_checks": [
+    {
+      "scene": "question",
+      "peak": 20868,
+      "rms": 4736.5
+    },
+    {
+      "scene": "unit",
+      "peak": 20397,
+      "rms": 4429.8
+    },
+    {
+      "scene": "groups",
+      "peak": 24098,
+      "rms": 4860.2
+    },
+    {
+      "scene": "combine",
+      "peak": 22756,
+      "rms": 5434.4
+    },
+    {
+      "scene": "factor",
+      "peak": 18527,
+      "rms": 4132.2
+    },
+    {
+      "scene": "rule",
+      "peak": 19723,
+      "rms": 4889.6
+    },
+    {
+      "scene": "contrast",
+      "peak": 20459,
+      "rms": 4798.9
+    },
+    {
+      "scene": "try",
+      "peak": 17206,
+      "rms": 4476.3
+    },
+    {
+      "scene": "answer",
+      "peak": 18964,
+      "rms": 4458.3
+    }
+  ],
+  "limitations": [
+    "Synthetic narration; human listening review pending.",
+    "Teacher approval and learner testing pending.",
+    "Boundary checks do not replace visual inspection."
+  ]
+}

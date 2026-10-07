@@ -1,0 +1,122 @@
+{
+  "bounds": [
+    {
+      "beat": "21",
+      "time": 32.63333333333339,
+      "bounds_violations": []
+    },
+    {
+      "beat": "22",
+      "time": 64.13333333333304,
+      "bounds_violations": []
+    },
+    {
+      "beat": "23",
+      "time": 93.9666666666661,
+      "bounds_violations": []
+    },
+    {
+      "beat": "24",
+      "time": 123.49999999999916,
+      "bounds_violations": []
+    }
+  ],
+  "cues": [
+    {
+      "beat": "21",
+      "phrase": "Let us use the theorem",
+      "target": 0.5,
+      "actual_before_wait": 0
+    },
+    {
+      "beat": "21",
+      "phrase": "First, sketch the rectangle and draw the diagonal",
+      "target": 14.388958333333335,
+      "actual_before_wait": 1.700000000000002
+    },
+    {
+      "beat": "21",
+      "phrase": "Label the legs",
+      "target": 25.062708333333333,
+      "actual_before_wait": 15.599999999999998
+    },
+    {
+      "beat": "22",
+      "phrase": "Apply the formula",
+      "target": 33.133333333333326,
+      "actual_before_wait": 32.63333333333339
+    },
+    {
+      "beat": "22",
+      "phrase": "Six squared is thirty-six",
+      "target": 39.76208333333332,
+      "actual_before_wait": 34.33333333333332
+    },
+    {
+      "beat": "22",
+      "phrase": "Thirty-six plus sixty-four equals one hundred",
+      "target": 43.58608333333333,
+      "actual_before_wait": 40.96666666666658
+    },
+    {
+      "beat": "22",
+      "phrase": "Now take the square root",
+      "target": 49.077749999999995,
+      "actual_before_wait": 44.79999999999985
+    },
+    {
+      "beat": "22",
+      "phrase": "The diagonal is ten metres",
+      "target": 61.377916666666664,
+      "actual_before_wait": 50.266666666666445
+    },
+    {
+      "beat": "23",
+      "phrase": "Does ten metres make sense",
+      "target": 64.63333333333333,
+      "actual_before_wait": 64.13333333333304
+    },
+    {
+      "beat": "23",
+      "phrase": "The diagonal must be longer than eight",
+      "target": 66.49491666666665,
+      "actual_before_wait": 65.83333333333297
+    },
+    {
+      "beat": "23",
+      "phrase": "It must also be shorter than",
+      "target": 69.98787499999999,
+      "actual_before_wait": 67.69999999999958
+    },
+    {
+      "beat": "23",
+      "phrase": "The equation gives the answer",
+      "target": 83.259625,
+      "actual_before_wait": 71.1999999999995
+    },
+    {
+      "beat": "24",
+      "phrase": "Watch for two different mistakes",
+      "target": 94.4666666666667,
+      "actual_before_wait": 93.9666666666661
+    },
+    {
+      "beat": "24",
+      "phrase": "One hundred describes the square",
+      "target": 102.16166666666669,
+      "actual_before_wait": 95.66666666666603
+    },
+    {
+      "beat": "24",
+      "phrase": "The other mistake is adding six and eight",
+      "target": 111.7166666666667,
+      "actual_before_wait": 103.36666666666596
+    },
+    {
+      "beat": "24",
+      "phrase": "To find the diagonal",
+      "target": 117.20258333333337,
+      "actual_before_wait": 112.93333333333257
+    }
+  ]
+}

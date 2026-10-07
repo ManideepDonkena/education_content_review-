@@ -1,0 +1,4 @@
+Manim Community v0.19.0
+
+/home/pil-lab/toshith/manideep/meeting/education_content_review/long_form_pythagoras/chapters_first_four.py:19: RuntimeWarning: invalid value encountered in divide
+  d2 = (v2 - corner) / np.linalg.norm(v2 - corner) * size

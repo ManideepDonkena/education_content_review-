@@ -1,0 +1,134 @@
+{
+  "bounds": [
+    {
+      "beat": "05",
+      "time": 31.93333333333338,
+      "bounds_violations": []
+    },
+    {
+      "beat": "06",
+      "time": 68.39999999999965,
+      "bounds_violations": []
+    },
+    {
+      "beat": "07",
+      "time": 97.89999999999938,
+      "bounds_violations": []
+    },
+    {
+      "beat": "08",
+      "time": 125.99999999999918,
+      "bounds_violations": []
+    }
+  ],
+  "cues": [
+    {
+      "beat": "05",
+      "phrase": "Let us build a square",
+      "target": 0.5,
+      "actual_before_wait": 0
+    },
+    {
+      "beat": "05",
+      "phrase": "On the four-metre teal leg",
+      "target": 3.5698333333333334,
+      "actual_before_wait": 1.700000000000002
+    },
+    {
+      "beat": "05",
+      "phrase": "Its area is four times four",
+      "target": 6.929458333333333,
+      "actual_before_wait": 5.366666666666663
+    },
+    {
+      "beat": "05",
+      "phrase": "On the three-metre gold leg",
+      "target": 10.979958333333332,
+      "actual_before_wait": 8.133333333333326
+    },
+    {
+      "beat": "05",
+      "phrase": "Its area is three times three",
+      "target": 14.877125,
+      "actual_before_wait": 12.466666666666654
+    },
+    {
+      "beat": "05",
+      "phrase": "Each little unit cell",
+      "target": 25.14633333333333,
+      "actual_before_wait": 16.066666666666652
+    },
+    {
+      "beat": "06",
+      "phrase": "Now add those two areas together",
+      "target": 32.43333333333334,
+      "actual_before_wait": 31.93333333333338
+    },
+    {
+      "beat": "06",
+      "phrase": "the square built on the diagonal",
+      "target": 41.73076923076923,
+      "actual_before_wait": 33.63333333333331
+    },
+    {
+      "beat": "06",
+      "phrase": "also has an area of exactly twenty-five",
+      "target": 45.47000961538462,
+      "actual_before_wait": 43.7333333333332
+    },
+    {
+      "beat": "06",
+      "phrase": "The square root of twenty-five is five",
+      "target": 54.937375,
+      "actual_before_wait": 46.666666666666465
+    },
+    {
+      "beat": "06",
+      "phrase": "Those are different things with different units",
+      "target": 65.10195833333333,
+      "actual_before_wait": 56.13333333333306
+    },
+    {
+      "beat": "07",
+      "phrase": "Five lies between four and seven",
+      "target": 68.9,
+      "actual_before_wait": 68.39999999999965
+    },
+    {
+      "beat": "07",
+      "phrase": "Now call the teal leg a",
+      "target": 73.75454166666667,
+      "actual_before_wait": 70.09999999999958
+    },
+    {
+      "beat": "07",
+      "phrase": "The relationship is c squared",
+      "target": 78.70391666666667,
+      "actual_before_wait": 74.96666666666619
+    },
+    {
+      "beat": "07",
+      "phrase": "But checking one example is evidence",
+      "target": 85.84691666666667,
+      "actual_before_wait": 79.89999999999945
+    },
+    {
+      "beat": "08",
+      "phrase": "A proof must work for any positive lengths",
+      "target": 98.4,
+      "actual_before_wait": 97.89999999999938
+    },
+    {
+      "beat": "08",
+      "phrase": "The claim is that the square on the hypotenuse",
+      "target": 101.98533333333334,
+      "actual_before_wait": 99.59999999999931
+    },
+    {
+      "beat": "08",
+      "phrase": "We will build an argument",
+      "target": 114.26154166666667,
+      "actual_before_wait": 103.19999999999925
+    }
+  ]
+}

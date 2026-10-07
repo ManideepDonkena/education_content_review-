@@ -1,0 +1,12 @@
+
+*\__pycache__
+*\.venv
+**.pyc
+*\.tts
+
+*.svg
+*.tex
+*.png
+*.jpg
+*.mp4
+*.wav

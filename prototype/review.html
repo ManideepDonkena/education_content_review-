@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Why like terms combine — prototype review</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#101a2b;color:#f4f4ef;font:17px/1.6 system-ui,sans-serif}main{max-width:1120px;margin:auto;padding:40px 24px}header p{color:#65d7c0;font-size:13px;letter-spacing:.15em}h1{font-size:clamp(28px,4vw,44px);line-height:1.2;margin:12px 0}header div,.note{color:#a9b8cb}video{width:100%;display:block;background:#101a2b;border:1px solid #2b3c55;border-radius:10px;margin:26px 0 18px}nav{display:flex;flex-wrap:wrap;gap:8px}button{font:inherit;font-size:14px;color:#f4f4ef;background:#1c2b42;border:1px solid #344963;border-radius:6px;padding:8px 13px;cursor:pointer}button:hover,button:focus{border-color:#65d7c0}section{border-top:1px solid #2b3c55;margin-top:30px;padding-top:18px}h2{font-size:22px}a{color:#65d7c0}li{margin:8px 0}.note{font-size:14px}
+</style>
+<main>
+<header><p>MATH / CONCEPT 01</p><h1>Why like terms combine</h1><div>79-second prototype · English · Synthetic draft narration</div></header>
+<video id="lesson" controls preload="metadata" poster="output/poster.jpg"><source src="output/like_terms.mp4" type="video/mp4"><track kind="captions" src="output/like_terms.vtt" srclang="en" label="English">Your browser cannot play this video. <a href="output/like_terms.mp4">Open the MP4</a>.</video>
+<nav aria-label="Video chapters">
+<button data-time="0">The question</button><button data-time="7.634">One tile</button><button data-time="14.567">Two groups</button><button data-time="22.1">Bring them together</button><button data-time="31">The algebra</button><button data-time="39.367">The rule</button><button data-time="49">Addition vs multiplication</button><button data-time="57.767">Your turn</button><button data-time="69.1">Answer</button>
+</nav>
+<p class="note">Captions are already visible in the video. The separate caption track is also available through the player. Teacher and learner review are pending.</p>
+<section><h2>Review the teaching</h2><ol><li>Can the learner explain why x² stays unchanged?</li><li>Is the area picture's assumption, x &gt; 0, clear?</li><li>Are the narration, notation, and pauses easy to follow?</li><li>Can the learner solve the last question and explain why?</li></ol></section>
+<section><h2>Editable materials</h2><p><a href="like_terms.py">Manim source</a> · <a href="narration.json">Narration</a> · <a href="output/like_terms.srt">Captions</a> · <a href="output/validation.json">Validation</a> · <a href="../examples/like_terms_lesson.md">Full lesson draft</a></p></section>
+</main>
+<script>document.querySelectorAll('[data-time]').forEach(b=>b.addEventListener('click',()=>{const v=document.getElementById('lesson');v.currentTime=Number(b.dataset.time);v.play().catch(()=>{});}));</script>
+</html>

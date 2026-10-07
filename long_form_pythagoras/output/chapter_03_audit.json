@@ -1,0 +1,110 @@
+{
+  "bounds": [
+    {
+      "beat": "09",
+      "time": 29.666666666666664,
+      "bounds_violations": []
+    },
+    {
+      "beat": "10",
+      "time": 56.66666666666667,
+      "bounds_violations": []
+    },
+    {
+      "beat": "11",
+      "time": 83.63333333333296,
+      "bounds_violations": []
+    },
+    {
+      "beat": "12",
+      "time": 109.39999999999941,
+      "bounds_violations": []
+    }
+  ],
+  "cues": [
+    {
+      "beat": "09",
+      "phrase": "Find the right-angle mark",
+      "target": 0.5,
+      "actual_before_wait": 0
+    },
+    {
+      "beat": "09",
+      "phrase": "The side opposite that corner",
+      "target": 2.3678749999999997,
+      "actual_before_wait": 1.7
+    },
+    {
+      "beat": "09",
+      "phrase": "These names describe relationships",
+      "target": 18.025791666666667,
+      "actual_before_wait": 3.5666666666666664
+    },
+    {
+      "beat": "10",
+      "phrase": "Watch the whole triangle rotate",
+      "target": 30.166666666666657,
+      "actual_before_wait": 29.666666666666664
+    },
+    {
+      "beat": "10",
+      "phrase": "The right-angle mark has moved to the top",
+      "target": 35.629458333333325,
+      "actual_before_wait": 32.666666666666664
+    },
+    {
+      "beat": "10",
+      "phrase": "Pink is still opposite the right angle",
+      "target": 42.093124999999986,
+      "actual_before_wait": 36.833333333333336
+    },
+    {
+      "beat": "10",
+      "phrase": "The formula remains",
+      "target": 46.52466666666666,
+      "actual_before_wait": 43.300000000000004
+    },
+    {
+      "beat": "11",
+      "phrase": "Now keep the three-metre and four-metre legs fixed",
+      "target": 57.16666666666666,
+      "actual_before_wait": 57.06666666666667
+    },
+    {
+      "beat": "11",
+      "phrase": "Open the angle beyond ninety degrees",
+      "target": 62.64829166666666,
+      "actual_before_wait": 58.366666666666674
+    },
+    {
+      "beat": "11",
+      "phrase": "Close it below ninety",
+      "target": 68.46637499999999,
+      "actual_before_wait": 64.93333333333321
+    },
+    {
+      "beat": "11",
+      "phrase": "Three and four give five only when",
+      "target": 75.657125,
+      "actual_before_wait": 70.76666666666641
+    },
+    {
+      "beat": "12",
+      "phrase": "Return the corner to ninety degrees",
+      "target": 84.13333333333335,
+      "actual_before_wait": 83.63333333333296
+    },
+    {
+      "beat": "12",
+      "phrase": "Notice that a plus b does not equal c",
+      "target": 91.34012500000001,
+      "actual_before_wait": 85.33333333333289
+    },
+    {
+      "beat": "12",
+      "phrase": "The theorem combines the squares",
+      "target": 100.16579166666668,
+      "actual_before_wait": 92.53333333333282
+    }
+  ]
+}

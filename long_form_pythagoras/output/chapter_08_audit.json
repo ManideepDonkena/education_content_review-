@@ -1,0 +1,134 @@
+{
+  "bounds": [
+    {
+      "beat": "29",
+      "time": 30.733333333333412,
+      "bounds_violations": []
+    },
+    {
+      "beat": "30",
+      "time": 60.73333333333315,
+      "bounds_violations": []
+    },
+    {
+      "beat": "31",
+      "time": 88.96666666666613,
+      "bounds_violations": []
+    },
+    {
+      "beat": "32",
+      "time": 119.63333333333252,
+      "bounds_violations": []
+    }
+  ],
+  "cues": [
+    {
+      "beat": "29",
+      "phrase": "Not every diagonal has a whole-number length",
+      "target": 0.5,
+      "actual_before_wait": 0
+    },
+    {
+      "beat": "29",
+      "phrase": "C squared is one plus one",
+      "target": 10.254916666666666,
+      "actual_before_wait": 1.700000000000002
+    },
+    {
+      "beat": "29",
+      "phrase": "So c is the square root of two metres",
+      "target": 12.78875,
+      "actual_before_wait": 11.466666666666665
+    },
+    {
+      "beat": "29",
+      "phrase": "Approximately, that is",
+      "target": 15.377208333333334,
+      "actual_before_wait": 13.999999999999995
+    },
+    {
+      "beat": "29",
+      "phrase": "The radical gives an exact length",
+      "target": 24.727833333333333,
+      "actual_before_wait": 16.566666666666688
+    },
+    {
+      "beat": "30",
+      "phrase": "Place two points on a coordinate grid",
+      "target": 31.23333333333335,
+      "actual_before_wait": 30.733333333333412
+    },
+    {
+      "beat": "30",
+      "phrase": "Their horizontal difference",
+      "target": 36.560291666666686,
+      "actual_before_wait": 32.43333333333342
+    },
+    {
+      "beat": "30",
+      "phrase": "Their vertical difference",
+      "target": 40.27608333333335,
+      "actual_before_wait": 37.76666666666669
+    },
+    {
+      "beat": "30",
+      "phrase": "The distance between the points",
+      "target": 48.442625000000014,
+      "actual_before_wait": 41.46666666666662
+    },
+    {
+      "beat": "30",
+      "phrase": "so the straight-line distance is five",
+      "target": 54.73347916666668,
+      "actual_before_wait": 49.63333333333322
+    },
+    {
+      "beat": "31",
+      "phrase": "Slide both points three units to the right",
+      "target": 61.23333333333335,
+      "actual_before_wait": 60.73333333333315
+    },
+    {
+      "beat": "31",
+      "phrase": "The horizontal difference is eight minus four",
+      "target": 67.18620833333335,
+      "actual_before_wait": 63.933333333332996
+    },
+    {
+      "beat": "31",
+      "phrase": "The vertical difference is four minus one",
+      "target": 70.90050000000002,
+      "actual_before_wait": 68.3999999999996
+    },
+    {
+      "beat": "31",
+      "phrase": "so its hypotenuse is still five",
+      "target": 78.14018333333334,
+      "actual_before_wait": 72.09999999999953
+    },
+    {
+      "beat": "32",
+      "phrase": "A coordinate grid quietly supplies the right angle",
+      "target": 89.4666666666667,
+      "actual_before_wait": 88.96666666666613
+    },
+    {
+      "beat": "32",
+      "phrase": "We can then calculate the straight-line separation",
+      "target": 104.08716666666669,
+      "actual_before_wait": 90.66666666666606
+    },
+    {
+      "beat": "32",
+      "phrase": "We are not calculating every possible route",
+      "target": 111.62600000000003,
+      "actual_before_wait": 105.29999999999933
+    },
+    {
+      "beat": "32",
+      "phrase": "We are calculating the direct gap",
+      "target": 115.31958333333336,
+      "actual_before_wait": 112.83333333333259
+    }
+  ]
+}

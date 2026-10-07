@@ -1,0 +1,11 @@
+[
+  {"id":"question","text":"Why does two x squared plus three x squared equal five x squared? Let's make the symbols visible.","hold":0.8},
+  {"id":"unit","text":"Take a square with side length x, where x is positive. Its area is x squared.","hold":0.8},
+  {"id":"groups","text":"Here are two such squares, and three more. Every tile has exactly the same area: x squared.","hold":0.8},
+  {"id":"combine","text":"Bring them together. Count five identical tiles. We changed how many we collected, not the area of each tile.","hold":0.8},
+  {"id":"factor","text":"So, two x squared plus three x squared is two plus three, times x squared. That is five x squared.","hold":0.8},
+  {"id":"rule","text":"This is the distributive law. Add the coefficients, and keep the shared variable part unchanged. The identity holds for every real x.","hold":0.8},
+  {"id":"contrast","text":"Addition keeps these terms as x squared. Multiplying x squared by x squared is different: that gives x to the fourth.","hold":0.8},
+  {"id":"try","text":"Your turn. What is four x squared plus two x squared? Explain what changes, and what stays the same.","hold":4.0},
+  {"id":"answer","text":"Six x squared. Four plus two gives six; x squared stays unchanged. Like terms combine because their variable parts match.","hold":1.2}
+]

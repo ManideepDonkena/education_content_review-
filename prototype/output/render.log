@@ -1,0 +1,256 @@
+Manim Community v0.19.0
+
+[10/06/26 21:20:11] INFO     Animation 0 : Using cached     cairo_renderer.py:89
+                             data (hash :                                       
+                             3106891208_2352625500_61476960                     
+                             3)                                                 
+Animation 0: Write(MathTex('2 x^2 + 3 x^2 = ?')), etc.:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                             [10/06/26 21:20:12] INFO     Animation 1 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_3949343699                         
+                             _161840583.mp4'                                    
+Animation 2: Create(Square), etc.:   0%|          | 0/39 [00:00<?, ?it/s]                                                                         [10/06/26 21:20:13] INFO     Animation 2 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_4127508504                         
+                             _3515093097.mp4'                                   
+Animation 3: FadeIn(VGroup of 3 submobjects):   0%|          | 0/21 [00:00<?, ?it/s]Animation 3: FadeIn(VGroup of 3 submobjects):  81%|████████  | 17/21 [00:00<00:00, 160.78it/s]                                                                                                                  INFO     Animation 3 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_1540833648                         
+                             _2578983358.mp4'                                   
+[10/06/26 21:20:14] INFO     Animation 4 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_633541910_                         
+                             1709117037.mp4'                                    
+Animation 5: LaggedStart(Group), etc.:   0%|          | 0/60 [00:00<?, ?it/s]Animation 5: LaggedStart(Group), etc.:  25%|██▌       | 15/60 [00:00<00:00, 144.88it/s]Animation 5: LaggedStart(Group), etc.:  50%|█████     | 30/60 [00:00<00:00, 144.74it/s]Animation 5: LaggedStart(Group), etc.:  75%|███████▌  | 45/60 [00:00<00:00, 142.42it/s]Animation 5: LaggedStart(Group), etc.: 100%|██████████| 60/60 [00:00<00:00, 138.20it/s]                                                                                       [10/06/26 21:20:15] INFO     Animation 5 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_745771953_                         
+                             3525746637.mp4'                                    
+[10/06/26 21:20:16] INFO     Animation 6 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_364822817_                         
+                             336500055.mp4'                                     
+Animation 7: FadeOut(MathTex('2 x^2')), etc.:   0%|          | 0/15 [00:00<?, ?it/s]Animation 7: FadeOut(MathTex('2 x^2')), etc.:  47%|████▋     | 7/15 [00:00<00:00, 67.04it/s]Animation 7: FadeOut(MathTex('2 x^2')), etc.:  93%|█████████▎| 14/15 [00:00<00:00, 68.45it/s]                                                                                                                 INFO     Animation 7 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_3033428851                         
+                             _1533746787.mp4'                                   
+Animation 8: _MethodAnimation(VGroup of 2 submobjects), etc.:   0%|          | 0/60 [00:00<?, ?it/s]Animation 8: _MethodAnimation(VGroup of 2 submobjects), etc.:  12%|█▏        | 7/60 [00:00<00:00, 66.44it/s]Animation 8: _MethodAnimation(VGroup of 2 submobjects), etc.:  23%|██▎       | 14/60 [00:00<00:00, 67.43it/s]Animation 8: _MethodAnimation(VGroup of 2 submobjects), etc.:  35%|███▌      | 21/60 [00:00<00:00, 67.68it/s]Animation 8: _MethodAnimation(VGroup of 2 submobjects), etc.:  47%|████▋     | 28/60 [00:00<00:00, 67.68it/s]Animation 8: _MethodAnimation(VGroup of 2 submobjects), etc.:  58%|█████▊    | 35/60 [00:00<00:00, 67.73it/s]Animation 8: _MethodAnimation(VGroup of 2 submobjects), etc.:  70%|███████   | 42/60 [00:00<00:00, 67.63it/s]Animation 8: _MethodAnimation(VGroup of 2 submobjects), etc.:  82%|████████▏ | 49/60 [00:00<00:00, 66.18it/s]Animation 8: _MethodAnimation(VGroup of 2 submobjects), etc.:  93%|█████████▎| 56/60 [00:00<00:00, 66.05it/s]                                                                                                             [10/06/26 21:20:18] INFO     Animation 8 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_2103138016                         
+                             _2797034700.mp4'                                   
+Animation 9: Write(MathTex('5 x^2')):   0%|          | 0/21 [00:00<?, ?it/s]                                                                                                INFO     Animation 9 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_2138878925                         
+                             _1526333890.mp4'                                   
+[10/06/26 21:20:19] INFO     Animation 10 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_4170373669                         
+                             _529238429.mp4'                                    
+Animation 11: Write(MathTex('2 x^2 + 3 x^2')):   0%|          | 0/24 [00:00<?, ?it/s]                                                                                     [10/06/26 21:20:20] INFO     Animation 11 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_757851704_                         
+                             3478048875.mp4'                                    
+                    INFO     Animation 12 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_4071516364                         
+                             _425651706.mp4'                                    
+Animation 13: Write(MathTex('= (2+3) x^2')):   0%|          | 0/27 [00:00<?, ?it/s]                                                                                                       INFO     Animation 13 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_67447494_3                         
+                             321638246.mp4'                                     
+[10/06/26 21:20:21] INFO     Animation 14 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_4071516364                         
+                             _829514350.mp4'                                    
+Animation 15: Write(MathTex('= 5 x^2')):   0%|          | 0/24 [00:00<?, ?it/s]                                                                                                   INFO     Animation 15 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_2731318083                         
+                             _2461432589.mp4'                                   
+[10/06/26 21:20:22] INFO     Animation 16 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_2362387546                         
+                             _1179581614.mp4'                                   
+Animation 17: FadeIn(Text('THE DISTRIBUTIVE LAW')), etc.:   0%|          | 0/51 [00:00<?, ?it/s]Animation 17: FadeIn(Text('THE DISTRIBUTIVE LAW')), etc.:  18%|█▊        | 9/51 [00:00<00:00, 83.08it/s]Animation 17: FadeIn(Text('THE DISTRIBUTIVE LAW')), etc.:  35%|███▌      | 18/51 [00:00<00:00, 78.46it/s]Animation 17: FadeIn(Text('THE DISTRIBUTIVE LAW')), etc.:  53%|█████▎    | 27/51 [00:00<00:00, 80.02it/s]Animation 17: FadeIn(Text('THE DISTRIBUTIVE LAW')), etc.:  71%|███████   | 36/51 [00:00<00:00, 73.68it/s]Animation 17: FadeIn(Text('THE DISTRIBUTIVE LAW')), etc.:  86%|████████▋ | 44/51 [00:00<00:00, 75.03it/s]                                                                                                         [10/06/26 21:20:23] INFO     Animation 17 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_1859726660                         
+                             _1063492887.mp4'                                   
+[10/06/26 21:20:25] INFO     Animation 18 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_3031050614                         
+                             _660056639.mp4'                                    
+Animation 19: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 19: FadeIn(VGroup of 3 submobjects), etc.:  75%|███████▌  | 18/24 [00:00<00:00, 172.35it/s]                                                                                                                         INFO     Animation 19 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_2273055319                         
+                             _464612329.mp4'                                    
+[10/06/26 21:20:26] INFO     Animation 20 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_4247107814                         
+                             _814776000.mp4'                                    
+Animation 21: FadeIn(VGroup of 3 submobjects), etc.:   0%|          | 0/24 [00:00<?, ?it/s]Animation 21: FadeIn(VGroup of 3 submobjects), etc.:  58%|█████▊    | 14/24 [00:00<00:00, 137.95it/s]                                                                                                     [10/06/26 21:20:27] INFO     Animation 21 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_1227771558                         
+                             _208524006.mp4'                                    
+[10/06/26 21:20:28] INFO     Animation 22 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_1529932614                         
+                             _4082538626.mp4'                                   
+Animation 23: FadeIn(Text('YOUR TURN')), etc.:   0%|          | 0/39 [00:00<?, ?it/s]Animation 23: FadeIn(Text('YOUR TURN')), etc.:  26%|██▌       | 10/39 [00:00<00:00, 99.88it/s]Animation 23: FadeIn(Text('YOUR TURN')), etc.:  51%|█████▏    | 20/39 [00:00<00:00, 99.46it/s]Animation 23: FadeIn(Text('YOUR TURN')), etc.:  79%|███████▉  | 31/39 [00:00<00:00, 100.35it/s]                                                                                               [10/06/26 21:20:29] INFO     Animation 23 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_989594490_                         
+                             1654947883.mp4'                                    
+[10/06/26 21:20:30] INFO     Animation 24 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_79935873_2                         
+                             150706712.mp4'                                     
+Animation 25: Write(MathTex('4 x^2 + 2 x^2 = 6 x^2')), etc.:   0%|          | 0/42 [00:00<?, ?it/s]Animation 25: Write(MathTex('4 x^2 + 2 x^2 = 6 x^2')), etc.:  31%|███       | 13/42 [00:00<00:00, 123.22it/s]Animation 25: Write(MathTex('4 x^2 + 2 x^2 = 6 x^2')), etc.:  62%|██████▏   | 26/42 [00:00<00:00, 118.29it/s]Animation 25: Write(MathTex('4 x^2 + 2 x^2 = 6 x^2')), etc.:  93%|█████████▎| 39/42 [00:00<00:00, 119.47it/s]                                                                                                             [10/06/26 21:20:31] INFO     Animation 25 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_640087599_                         
+                             654609260.mp4'                                     
+[10/06/26 21:20:33] INFO     Animation 26 : Partial     scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/partial_movie_files/Like                         
+                             Terms/298079120_3572253087                         
+                             _4186558515.mp4'                                   
+                    INFO     Combining to Movie file.   scene_file_writer.py:739
+[10/06/26 21:20:34] WARNING  Some options were not      scene_file_writer.py:801
+                             used: {'shortest': '1',                            
+                             'metadata':                                        
+                             'comment=Rendered with                             
+                             Manim Community v0.19.0'}                          
+                    INFO                                scene_file_writer.py:886
+                             File ready at                                      
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/prototype/med                         
+                             ia/videos/like_terms/720p3                         
+                             0/LikeTerms.mp4'                                   
+                                                                                
+                    INFO     Rendered LikeTerms                     scene.py:255
+                             Played 27 animations                               

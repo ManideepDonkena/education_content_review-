@@ -1,0 +1,298 @@
+{
+  "streams": [
+    {
+      "index": 0,
+      "codec_name": "h264",
+      "codec_long_name": "H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10",
+      "profile": "High",
+      "codec_type": "video",
+      "codec_tag_string": "avc1",
+      "codec_tag": "0x31637661",
+      "width": 1920,
+      "height": 1080,
+      "coded_width": 1920,
+      "coded_height": 1080,
+      "closed_captions": 0,
+      "has_b_frames": 2,
+      "pix_fmt": "yuv420p",
+      "level": 40,
+      "chroma_location": "left",
+      "refs": 1,
+      "is_avc": "true",
+      "nal_length_size": "4",
+      "r_frame_rate": "30/1",
+      "avg_frame_rate": "108000000/3600007",
+      "time_base": "1/90000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 108000210,
+      "duration": "1200.002333",
+      "bit_rate": "170553",
+      "bits_per_raw_sample": "8",
+      "nb_frames": "36000",
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "VideoHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    },
+    {
+      "index": 1,
+      "codec_name": "aac",
+      "codec_long_name": "AAC (Advanced Audio Coding)",
+      "profile": "LC",
+      "codec_type": "audio",
+      "codec_tag_string": "mp4a",
+      "codec_tag": "0x6134706d",
+      "sample_fmt": "fltp",
+      "sample_rate": "48000",
+      "channels": 1,
+      "channel_layout": "mono",
+      "bits_per_sample": 0,
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/48000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 57600000,
+      "duration": "1200.000000",
+      "bit_rate": "202285",
+      "nb_frames": "56251",
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0
+      },
+      "tags": {
+        "language": "und",
+        "handler_name": "SoundHandler",
+        "vendor_id": "[0][0][0][0]"
+      }
+    },
+    {
+      "index": 2,
+      "codec_name": "mov_text",
+      "codec_long_name": "MOV text",
+      "codec_type": "subtitle",
+      "codec_tag_string": "tx3g",
+      "codec_tag": "0x67337874",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/1000000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 1199330000,
+      "duration": "1199.330000",
+      "bit_rate": "114",
+      "nb_frames": "316",
+      "disposition": {
+        "default": 1,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0
+      },
+      "tags": {
+        "language": "eng",
+        "handler_name": "SubtitleHandler"
+      }
+    },
+    {
+      "index": 3,
+      "codec_name": "bin_data",
+      "codec_long_name": "binary data",
+      "codec_type": "data",
+      "codec_tag_string": "text",
+      "codec_tag": "0x74786574",
+      "r_frame_rate": "0/0",
+      "avg_frame_rate": "0/0",
+      "time_base": "1/1000",
+      "start_pts": 0,
+      "start_time": "0.000000",
+      "duration_ts": 1200000,
+      "duration": "1200.000000",
+      "bit_rate": "2",
+      "nb_frames": "10",
+      "disposition": {
+        "default": 0,
+        "dub": 0,
+        "original": 0,
+        "comment": 0,
+        "lyrics": 0,
+        "karaoke": 0,
+        "forced": 0,
+        "hearing_impaired": 0,
+        "visual_impaired": 0,
+        "clean_effects": 0,
+        "attached_pic": 0,
+        "timed_thumbnails": 0
+      },
+      "tags": {
+        "language": "eng",
+        "handler_name": "SubtitleHandler"
+      }
+    }
+  ],
+  "chapters": [
+    {
+      "id": 0,
+      "time_base": "1/1000",
+      "start": 0,
+      "start_time": "0.000000",
+      "end": 107200,
+      "end_time": "107.200000",
+      "tags": {
+        "title": "THE SHORTCUT"
+      }
+    },
+    {
+      "id": 1,
+      "time_base": "1/1000",
+      "start": 107200,
+      "start_time": "107.200000",
+      "end": 233200,
+      "end_time": "233.200000",
+      "tags": {
+        "title": "LENGTH BECOMES AREA"
+      }
+    },
+    {
+      "id": 2,
+      "time_base": "1/1000",
+      "start": 233200,
+      "start_time": "233.200000",
+      "end": 342600,
+      "end_time": "342.600000",
+      "tags": {
+        "title": "IDENTIFY THE RIGHT SIDE"
+      }
+    },
+    {
+      "id": 3,
+      "time_base": "1/1000",
+      "start": 342600,
+      "start_time": "342.600000",
+      "end": 458400,
+      "end_time": "458.400000",
+      "tags": {
+        "title": "BUILD A PROOF"
+      }
+    },
+    {
+      "id": 4,
+      "time_base": "1/1000",
+      "start": 458400,
+      "start_time": "458.400000",
+      "end": 572033,
+      "end_time": "572.033000",
+      "tags": {
+        "title": "COUNT THE SAME AREA TWICE"
+      }
+    },
+    {
+      "id": 5,
+      "time_base": "1/1000",
+      "start": 572033,
+      "start_time": "572.033000",
+      "end": 695533,
+      "end_time": "695.533000",
+      "tags": {
+        "title": "WORKED PROBLEM ONE"
+      }
+    },
+    {
+      "id": 6,
+      "time_base": "1/1000",
+      "start": 695533,
+      "start_time": "695.533000",
+      "end": 823600,
+      "end_time": "823.600000",
+      "tags": {
+        "title": "WORKED PROBLEM TWO"
+      }
+    },
+    {
+      "id": 7,
+      "time_base": "1/1000",
+      "start": 823600,
+      "start_time": "823.600000",
+      "end": 943233,
+      "end_time": "943.233000",
+      "tags": {
+        "title": "BEYOND WHOLE NUMBERS"
+      }
+    },
+    {
+      "id": 8,
+      "time_base": "1/1000",
+      "start": 943233,
+      "start_time": "943.233000",
+      "end": 1077567,
+      "end_time": "1077.567000",
+      "tags": {
+        "title": "YOUR TURN"
+      }
+    },
+    {
+      "id": 9,
+      "time_base": "1/1000",
+      "start": 1077567,
+      "start_time": "1077.567000",
+      "end": 1200000,
+      "end_time": "1200.000000",
+      "tags": {
+        "title": "RETURN TO THE QUESTION"
+      }
+    }
+  ],
+  "format": {
+    "filename": "/home/pil-lab/toshith/manideep/meeting/education_content_review/long_form_pythagoras/output/pythagoras_20min.mp4",
+    "nb_streams": 4,
+    "nb_programs": 0,
+    "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+    "format_long_name": "QuickTime / MOV",
+    "start_time": "0.000000",
+    "duration": "1200.003000",
+    "size": "57269783",
+    "bit_rate": "381797",
+    "probe_score": 100,
+    "tags": {
+      "major_brand": "isom",
+      "minor_version": "512",
+      "compatible_brands": "isomiso2avc1mp41",
+      "title": "The geometry of a shortcut",
+      "artist": "Original educational lesson; synthetic narration",
+      "encoder": "Lavf58.76.100"
+    }
+  }
+}

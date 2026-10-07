@@ -1,0 +1,128 @@
+{
+  "bounds": [
+    {
+      "beat": "33",
+      "time": 27.36666666666706,
+      "bounds_violations": []
+    },
+    {
+      "beat": "34",
+      "time": 68.06666666666646,
+      "bounds_violations": []
+    },
+    {
+      "beat": "35",
+      "time": 106.86666666666562,
+      "bounds_violations": []
+    },
+    {
+      "beat": "36",
+      "time": 134.333333333332,
+      "bounds_violations": []
+    }
+  ],
+  "cues": [
+    {
+      "beat": "33",
+      "phrase": "Time to try one yourself",
+      "target": 0.5,
+      "actual_before_wait": 0
+    },
+    {
+      "beat": "33",
+      "phrase": "What is the length of the hypotenuse",
+      "target": 6.8250416666666665,
+      "actual_before_wait": 1.700000000000002
+    },
+    {
+      "beat": "33",
+      "phrase": "Set up the equation",
+      "target": 9.027541666666666,
+      "actual_before_wait": 8.033333333333331
+    },
+    {
+      "beat": "34",
+      "phrase": "Five squared is twenty-five",
+      "target": 27.866666666666674,
+      "actual_before_wait": 27.36666666666706
+    },
+    {
+      "beat": "34",
+      "phrase": "The square root of one hundred and sixty-nine is thirteen",
+      "target": 38.51250000000001,
+      "actual_before_wait": 29.06666666666712
+    },
+    {
+      "beat": "34",
+      "phrase": "Now a second question",
+      "target": 44.42800000000001,
+      "actual_before_wait": 39.70000000000039
+    },
+    {
+      "beat": "34",
+      "phrase": "Set up the equation",
+      "target": 53.230791666666676,
+      "actual_before_wait": 45.63333333333365
+    },
+    {
+      "beat": "35",
+      "phrase": "H squared plus thirty-six equals one hundred",
+      "target": 68.56666666666672,
+      "actual_before_wait": 68.06666666666646
+    },
+    {
+      "beat": "35",
+      "phrase": "Subtract thirty-six to get sixty-four",
+      "target": 71.68787500000005,
+      "actual_before_wait": 69.7666666666664
+    },
+    {
+      "beat": "35",
+      "phrase": "h is eight metres",
+      "target": 76.67273888888894,
+      "actual_before_wait": 72.89999999999966
+    },
+    {
+      "beat": "35",
+      "phrase": "Now a reasoning question",
+      "target": 78.48541666666672,
+      "actual_before_wait": 77.86666666666626
+    },
+    {
+      "beat": "35",
+      "phrase": "A student says its diagonal is two metres",
+      "target": 82.38650000000005,
+      "actual_before_wait": 79.69999999999953
+    },
+    {
+      "beat": "35",
+      "phrase": "Another says the diagonal is the square root of two",
+      "target": 87.79654166666671,
+      "actual_before_wait": 83.59999999999947
+    },
+    {
+      "beat": "36",
+      "phrase": "The diagonal is the square root of two metres",
+      "target": 107.36666666666667,
+      "actual_before_wait": 106.86666666666562
+    },
+    {
+      "beat": "36",
+      "phrase": "The squares on the two legs each have area one",
+      "target": 110.54579166666667,
+      "actual_before_wait": 108.56666666666555
+    },
+    {
+      "beat": "36",
+      "phrase": "If that side were two metres",
+      "target": 120.76862500000001,
+      "actual_before_wait": 111.73333333333215
+    },
+    {
+      "beat": "36",
+      "phrase": "The length two measures the bent route",
+      "target": 127.5245,
+      "actual_before_wait": 121.96666666666542
+    }
+  ]
+}

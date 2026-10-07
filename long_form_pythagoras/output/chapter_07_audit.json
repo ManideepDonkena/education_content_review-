@@ -1,0 +1,128 @@
+{
+  "bounds": [
+    {
+      "beat": "25",
+      "time": 30.00000000000005,
+      "bounds_violations": []
+    },
+    {
+      "beat": "26",
+      "time": 65.33333333333317,
+      "bounds_violations": []
+    },
+    {
+      "beat": "27",
+      "time": 98.33333333333289,
+      "bounds_violations": []
+    },
+    {
+      "beat": "28",
+      "time": 128.06666666666595,
+      "bounds_violations": []
+    }
+  ],
+  "cues": [
+    {
+      "beat": "25",
+      "phrase": "Now the unknown is a leg",
+      "target": 0.5,
+      "actual_before_wait": 0
+    },
+    {
+      "beat": "25",
+      "phrase": "a thirteen-metre ladder",
+      "target": 4.045458333333333,
+      "actual_before_wait": 1.700000000000002
+    },
+    {
+      "beat": "25",
+      "phrase": "The ladder is opposite that angle",
+      "target": 14.766208333333333,
+      "actual_before_wait": 5.233333333333331
+    },
+    {
+      "beat": "25",
+      "phrase": "h must be less than thirteen",
+      "target": 23.033933333333334,
+      "actual_before_wait": 15.96666666666666
+    },
+    {
+      "beat": "26",
+      "phrase": "Write the formula",
+      "target": 30.5,
+      "actual_before_wait": 30.00000000000005
+    },
+    {
+      "beat": "26",
+      "phrase": "So h squared plus twenty-five",
+      "target": 41.720875,
+      "actual_before_wait": 31.70000000000011
+    },
+    {
+      "beat": "26",
+      "phrase": "H squared equals one hundred",
+      "target": 50.46658333333333,
+      "actual_before_wait": 42.93333333333337
+    },
+    {
+      "beat": "26",
+      "phrase": "Now take the square root",
+      "target": 57.39458333333333,
+      "actual_before_wait": 51.666666666666636
+    },
+    {
+      "beat": "26",
+      "phrase": "So h equals twelve metres",
+      "target": 62.59816666666667,
+      "actual_before_wait": 58.5999999999999
+    },
+    {
+      "beat": "27",
+      "phrase": "Check twelve by substitution",
+      "target": 65.83333333333337,
+      "actual_before_wait": 65.33333333333317
+    },
+    {
+      "beat": "27",
+      "phrase": "Twelve is also less than the hypotenuse",
+      "target": 77.60750000000004,
+      "actual_before_wait": 67.0333333333331
+    },
+    {
+      "beat": "27",
+      "phrase": "Finding a leg means subtracting",
+      "target": 82.62320833333337,
+      "actual_before_wait": 78.7999999999997
+    },
+    {
+      "beat": "27",
+      "phrase": "Finding the hypotenuse means adding",
+      "target": 88.12666666666671,
+      "actual_before_wait": 83.83333333333296
+    },
+    {
+      "beat": "28",
+      "phrase": "What if someone adds",
+      "target": 98.83333333333337,
+      "actual_before_wait": 98.33333333333289
+    },
+    {
+      "beat": "28",
+      "phrase": "whose square root is about thirteen point nine",
+      "target": 104.3426785714286,
+      "actual_before_wait": 100.03333333333282
+    },
+    {
+      "beat": "28",
+      "phrase": "The unknown is a leg",
+      "target": 113.64545833333338,
+      "actual_before_wait": 105.53333333333275
+    },
+    {
+      "beat": "28",
+      "phrase": "Correcting that identification",
+      "target": 119.7334166666667,
+      "actual_before_wait": 114.83333333333267
+    }
+  ]
+}

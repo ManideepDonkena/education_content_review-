@@ -1,0 +1,134 @@
+{
+  "bounds": [
+    {
+      "beat": "17",
+      "time": 26.53333333333345,
+      "bounds_violations": []
+    },
+    {
+      "beat": "18",
+      "time": 53.60000000000007,
+      "bounds_violations": []
+    },
+    {
+      "beat": "19",
+      "time": 83.36666666666638,
+      "bounds_violations": []
+    },
+    {
+      "beat": "20",
+      "time": 113.63333333333277,
+      "bounds_violations": []
+    }
+  ],
+  "cues": [
+    {
+      "beat": "17",
+      "phrase": "Keep the same picture",
+      "target": 0.5,
+      "actual_before_wait": 0
+    },
+    {
+      "beat": "17",
+      "phrase": "The outer square has side a plus b",
+      "target": 4.372708333333334,
+      "actual_before_wait": 1.700000000000002
+    },
+    {
+      "beat": "17",
+      "phrase": "Multiplying a plus b by itself",
+      "target": 10.234875,
+      "actual_before_wait": 5.566666666666665
+    },
+    {
+      "beat": "17",
+      "phrase": "Together those middle terms",
+      "target": 17.15041666666667,
+      "actual_before_wait": 11.433333333333326
+    },
+    {
+      "beat": "17",
+      "phrase": "This expression counts the whole outer square",
+      "target": 19.592875000000003,
+      "actual_before_wait": 18.36666666666672
+    },
+    {
+      "beat": "18",
+      "phrase": "Each corner triangle has area",
+      "target": 27.03333333333336,
+      "actual_before_wait": 26.53333333333345
+    },
+    {
+      "beat": "18",
+      "phrase": "There are four identical triangles",
+      "target": 31.10458333333336,
+      "actual_before_wait": 28.23333333333351
+    },
+    {
+      "beat": "18",
+      "phrase": "The central square has side c",
+      "target": 35.86904166666669,
+      "actual_before_wait": 32.3000000000002
+    },
+    {
+      "beat": "18",
+      "phrase": "so the two expressions must be equal",
+      "target": 50.30466666666669,
+      "actual_before_wait": 37.066666666666805
+    },
+    {
+      "beat": "19",
+      "phrase": "Set those expressions equal",
+      "target": 54.10000000000008,
+      "actual_before_wait": 53.60000000000007
+    },
+    {
+      "beat": "19",
+      "phrase": "Subtract two ab from both sides",
+      "target": 60.81566666666674,
+      "actual_before_wait": 55.300000000000004
+    },
+    {
+      "beat": "19",
+      "phrase": "Visually, that removes the same total triangle area",
+      "target": 63.14533333333341,
+      "actual_before_wait": 61.999999999999936
+    },
+    {
+      "beat": "19",
+      "phrase": "What remains is a squared plus b squared",
+      "target": 68.18550000000008,
+      "actual_before_wait": 64.63333333333318
+    },
+    {
+      "beat": "19",
+      "phrase": "We used arbitrary positive lengths",
+      "target": 73.39475000000007,
+      "actual_before_wait": 69.39999999999978
+    },
+    {
+      "beat": "20",
+      "phrase": "Notice what the proof depended on",
+      "target": 83.86666666666673,
+      "actual_before_wait": 83.36666666666638
+    },
+    {
+      "beat": "20",
+      "phrase": "We justified the central square",
+      "target": 90.99279166666673,
+      "actual_before_wait": 85.06666666666631
+    },
+    {
+      "beat": "20",
+      "phrase": "Then we counted the same region twice",
+      "target": 96.6984583333334,
+      "actual_before_wait": 92.19999999999958
+    },
+    {
+      "beat": "20",
+      "phrase": "When you remember the formula",
+      "target": 106.2109583333334,
+      "actual_before_wait": 97.89999999999951
+    }
+  ]
+}

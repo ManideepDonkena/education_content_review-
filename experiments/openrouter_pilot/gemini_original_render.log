@@ -1,0 +1,118 @@
+Manim Community v0.19.0
+
+[10/06/26 22:41:14] INFO     Writing - to                tex_file_writing.py:111
+                             renders/gemini_original/Tex                        
+                             /ba96de15f98acfc8.tex                              
+                    INFO     Writing 3 to                tex_file_writing.py:111
+                             renders/gemini_original/Tex                        
+                             /8de07035cb22c903.tex                              
+[10/06/26 22:41:15] INFO     Writing 2 to                tex_file_writing.py:111
+                             renders/gemini_original/Tex                        
+                             /2b7ffb3c38a5a6e0.tex                              
+                    INFO     Writing 1 to                tex_file_writing.py:111
+                             renders/gemini_original/Tex                        
+                             /6ecf9f51170c1a70.tex                              
+                    INFO     Writing 4 to                tex_file_writing.py:111
+                             renders/gemini_original/Tex                        
+                             /31d3165490bf3404.tex                              
+[10/06/26 22:41:16] INFO     Writing 5 to                tex_file_writing.py:111
+                             renders/gemini_original/Tex                        
+                             /5683d89f396abe50.tex                              
+                    INFO     Writing $x$ to              tex_file_writing.py:111
+                             renders/gemini_original/Tex                        
+                             /07e19719345c4cd5.tex                              
+                    INFO     Writing $y$ to              tex_file_writing.py:111
+                             renders/gemini_original/Tex                        
+                             /fe0600c858693ce4.tex                              
+                    INFO     Caching disabled.              cairo_renderer.py:79
+Animation 0: Create(Axes of 2 submobjects), etc.:   0%|          | 0/15 [00:00<?, ?it/s]                                                                                                            INFO     Animation 0 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/ge                         
+                             mini_original/videos/gemin                         
+                             i_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00000.mp4'                           
+                    INFO     Caching disabled.              cairo_renderer.py:79
+[10/06/26 22:41:17] INFO     Animation 1 : Partial      scene_file_writer.py:588
+                             movie file written in                              
+                             '/home/pil-lab/toshith/man                         
+                             ideep/meeting/education_co                         
+                             ntent_review/experiments/o                         
+                             penrouter_pilot/renders/ge                         
+                             mini_original/videos/gemin                         
+                             i_original/480p15/partial_                         
+                             movie_files/SlopeIntercept                         
+                             Demo/uncached_00001.mp4'                           
+╭───────────────────── Traceback (most recent call last) ──────────────────────╮
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/prototype/.v │
+│ env/lib/python3.10/site-packages/manim/cli/render/commands.py:125 in render  │
+│                                                                              │
+│   122 │   │   │   try:                                                       │
+│   123 │   │   │   │   with tempconfig({}):                                   │
+│   124 │   │   │   │   │   scene = SceneClass()                               │
+│ ❱ 125 │   │   │   │   │   scene.render()                                     │
+│   126 │   │   │   except Exception:                                          │
+│   127 │   │   │   │   error_console.print_exception()                        │
+│   128 │   │   │   │   sys.exit(1)                                            │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/prototype/.v │
+│ env/lib/python3.10/site-packages/manim/scene/scene.py:237 in render          │
+│                                                                              │
+│    234 │   │   """                                                           │
+│    235 │   │   self.setup()                                                  │
+│    236 │   │   try:                                                          │
+│ ❱  237 │   │   │   self.construct()                                          │
+│    238 │   │   except EndSceneEarlyException:                                │
+│    239 │   │   │   pass                                                      │
+│    240 │   │   except RerunSceneException:                                   │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/experiments/ │
+│ openrouter_pilot/gemini_original.py:43 in construct                          │
+│                                                                              │
+│    40 │   │   def get_line(m, b):                                            │
+│    41 │   │   │   return axes.get_graph(lambda x: m * x + b, x_range=[AXES_X │
+│    42 │   │                                                                  │
+│ ❱  43 │   │   line1 = always_redraw(lambda: get_line(m_val.get_value(), b_va │
+│    44 │   │   self.play(Create(line1))                                       │
+│    45 │   │   self.wait(0.5)                                                 │
+│    46                                                                        │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/prototype/.v │
+│ env/lib/python3.10/site-packages/manim/animation/updaters/mobject_update_uti │
+│ ls.py:103 in always_redraw                                                   │
+│                                                                              │
+│   100 │   │   │   │   self.add(ax, sine, point, tangent)                     │
+│   101 │   │   │   │   self.play(alpha.animate.set_value(1), rate_func=linear │
+│   102 │   """                                                                │
+│ ❱ 103 │   mob = func()                                                       │
+│   104 │   mob.add_updater(lambda _: mob.become(func()))                      │
+│   105 │   return mob                                                         │
+│   106                                                                        │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/experiments/ │
+│ openrouter_pilot/gemini_original.py:43 in <lambda>                           │
+│                                                                              │
+│    40 │   │   def get_line(m, b):                                            │
+│    41 │   │   │   return axes.get_graph(lambda x: m * x + b, x_range=[AXES_X │
+│    42 │   │                                                                  │
+│ ❱  43 │   │   line1 = always_redraw(lambda: get_line(m_val.get_value(), b_va │
+│    44 │   │   self.play(Create(line1))                                       │
+│    45 │   │   self.wait(0.5)                                                 │
+│    46                                                                        │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/experiments/ │
+│ openrouter_pilot/gemini_original.py:41 in get_line                           │
+│                                                                              │
+│    38 │   │   b_val = ValueTracker(1)                                        │
+│    39 │   │                                                                  │
+│    40 │   │   def get_line(m, b):                                            │
+│ ❱  41 │   │   │   return axes.get_graph(lambda x: m * x + b, x_range=[AXES_X │
+│    42 │   │                                                                  │
+│    43 │   │   line1 = always_redraw(lambda: get_line(m_val.get_value(), b_va │
+│    44 │   │   self.play(Create(line1))                                       │
+╰──────────────────────────────────────────────────────────────────────────────╯
+TypeError: Mobject.__getattr__.<locals>.getter() got an unexpected keyword 
+argument 'x_range'

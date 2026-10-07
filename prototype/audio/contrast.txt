@@ -1,0 +1,1 @@
+Addition keeps these terms as x squared. Multiplying x squared by x squared is different: that gives x to the fourth.

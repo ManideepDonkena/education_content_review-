@@ -1,0 +1,47 @@
+[
+  {
+    "scene": "question",
+    "boundary_checks": "passed",
+    "start": 0
+  },
+  {
+    "scene": "unit",
+    "boundary_checks": "passed",
+    "start": 7.633
+  },
+  {
+    "scene": "groups",
+    "boundary_checks": "passed",
+    "start": 14.567
+  },
+  {
+    "scene": "combine",
+    "boundary_checks": "passed",
+    "start": 22.1
+  },
+  {
+    "scene": "factor",
+    "boundary_checks": "passed",
+    "start": 31.0
+  },
+  {
+    "scene": "rule",
+    "boundary_checks": "passed",
+    "start": 39.367
+  },
+  {
+    "scene": "contrast",
+    "boundary_checks": "passed",
+    "start": 49.0
+  },
+  {
+    "scene": "try",
+    "boundary_checks": "passed",
+    "start": 57.767
+  },
+  {
+    "scene": "answer",
+    "boundary_checks": "passed",
+    "start": 69.1
+  }
+]

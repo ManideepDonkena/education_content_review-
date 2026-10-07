@@ -1,0 +1,110 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'meeting/education_content_review/long_form_pythagoras/output/pythagoras_20min.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : The geometry of a shortcut
+    artist          : Original educational lesson; synthetic narration
+    encoder         : Lavf58.76.100
+  Duration: 00:20:00.00, start: 0.000000, bitrate: 381 kb/s
+  Chapters:
+    Chapter #0:0: start 0.000000, end 107.200000
+      Metadata:
+        title           : THE SHORTCUT
+    Chapter #0:1: start 107.200000, end 233.200000
+      Metadata:
+        title           : LENGTH BECOMES AREA
+    Chapter #0:2: start 233.200000, end 342.600000
+      Metadata:
+        title           : IDENTIFY THE RIGHT SIDE
+    Chapter #0:3: start 342.600000, end 458.400000
+      Metadata:
+        title           : BUILD A PROOF
+    Chapter #0:4: start 458.400000, end 572.033000
+      Metadata:
+        title           : COUNT THE SAME AREA TWICE
+    Chapter #0:5: start 572.033000, end 695.533000
+      Metadata:
+        title           : WORKED PROBLEM ONE
+    Chapter #0:6: start 695.533000, end 823.600000
+      Metadata:
+        title           : WORKED PROBLEM TWO
+    Chapter #0:7: start 823.600000, end 943.233000
+      Metadata:
+        title           : BEYOND WHOLE NUMBERS
+    Chapter #0:8: start 943.233000, end 1077.567000
+      Metadata:
+        title           : YOUR TURN
+    Chapter #0:9: start 1077.567000, end 1200.000000
+      Metadata:
+        title           : RETURN TO THE QUESTION
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p, 1920x1080, 170 kb/s, 30 fps, 30 tbr, 90k tbn, 60 tbc (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 202 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:2(eng): Subtitle: mov_text (tx3g / 0x67337874), 0 kb/s (default)
+    Metadata:
+      handler_name    : SubtitleHandler
+  Stream #0:3(eng): Data: bin_data (text / 0x74786574), 0 kb/s
+    Metadata:
+      handler_name    : SubtitleHandler
+Stream mapping:
+  Stream #0:1 -> #0:0 (aac (native) -> pcm_s16le (native))
+Press [q] to stop, [?] for help
+Output #0, null, to 'pipe:':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    title           : The geometry of a shortcut
+    artist          : Original educational lesson; synthetic narration
+    encoder         : Lavf58.76.100
+  Chapters:
+    Chapter #0:0: start 0.000000, end 107.200000
+      Metadata:
+        title           : THE SHORTCUT
+    Chapter #0:1: start 107.200000, end 233.200000
+      Metadata:
+        title           : LENGTH BECOMES AREA
+    Chapter #0:2: start 233.200000, end 342.600000
+      Metadata:
+        title           : IDENTIFY THE RIGHT SIDE
+    Chapter #0:3: start 342.600000, end 458.400000
+      Metadata:
+        title           : BUILD A PROOF
+    Chapter #0:4: start 458.400000, end 572.033000
+      Metadata:
+        title           : COUNT THE SAME AREA TWICE
+    Chapter #0:5: start 572.033000, end 695.533000
+      Metadata:
+        title           : WORKED PROBLEM ONE
+    Chapter #0:6: start 695.533000, end 823.600000
+      Metadata:
+        title           : WORKED PROBLEM TWO
+    Chapter #0:7: start 823.600000, end 943.233000
+      Metadata:
+        title           : BEYOND WHOLE NUMBERS
+    Chapter #0:8: start 943.233000, end 1077.567000
+      Metadata:
+        title           : YOUR TURN
+    Chapter #0:9: start 1077.567000, end 1200.000000
+      Metadata:
+        title           : RETURN TO THE QUESTION
+  Stream #0:0(und): Audio: pcm_s16le, 48000 Hz, mono, s16, 768 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc58.134.100 pcm_s16le
+size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    size=N/A time=00:19:08.45 bitrate=N/A speed=2.3e+03x    size=N/A time=00:19:59.97 bitrate=N/A speed=2.29e+03x    
+video:0kB audio:112500kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+[Parsed_volumedetect_0 @ 0x57abbdff6040] n_samples: 57600000
+[Parsed_volumedetect_0 @ 0x57abbdff6040] mean_volume: -18.3 dB
+[Parsed_volumedetect_0 @ 0x57abbdff6040] max_volume: -1.5 dB
+[Parsed_volumedetect_0 @ 0x57abbdff6040] histogram_1db: 1905
+[Parsed_volumedetect_0 @ 0x57abbdff6040] histogram_2db: 7610
+[Parsed_volumedetect_0 @ 0x57abbdff6040] histogram_3db: 21756
+[Parsed_volumedetect_0 @ 0x57abbdff6040] histogram_4db: 53472

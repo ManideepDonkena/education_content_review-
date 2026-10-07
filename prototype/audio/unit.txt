@@ -1,0 +1,1 @@
+Take a square with side length x, where x is positive. Its area is x squared.

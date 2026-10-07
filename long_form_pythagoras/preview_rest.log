@@ -1,0 +1,119 @@
+Manim Community v0.19.0
+
+╭───────────────────── Traceback (most recent call last) ──────────────────────╮
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/prototype/.v │
+│ env/lib/python3.10/site-packages/manim/cli/render/commands.py:125 in render  │
+│                                                                              │
+│   122 │   │   │   try:                                                       │
+│   123 │   │   │   │   with tempconfig({}):                                   │
+│   124 │   │   │   │   │   scene = SceneClass()                               │
+│ ❱ 125 │   │   │   │   │   scene.render()                                     │
+│   126 │   │   │   except Exception:                                          │
+│   127 │   │   │   │   error_console.print_exception()                        │
+│   128 │   │   │   │   sys.exit(1)                                            │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/prototype/.v │
+│ env/lib/python3.10/site-packages/manim/scene/scene.py:237 in render          │
+│                                                                              │
+│    234 │   │   """                                                           │
+│    235 │   │   self.setup()                                                  │
+│    236 │   │   try:                                                          │
+│ ❱  237 │   │   │   self.construct()                                          │
+│    238 │   │   except EndSceneEarlyException:                                │
+│    239 │   │   │   pass                                                      │
+│    240 │   │   except RerunSceneException:                                   │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/long_form_py │
+│ thagoras/chapters_rest.py:77 in construct                                    │
+│                                                                              │
+│    74 │   │   self.cue('The ladder is opposite that angle',Indicate(g[0][2]) │
+│    75 │   │   self.cue('h must be less than thirteen',self.panel_to(eq('h<13 │
+│    76 │   │   self.begin('26');self.cue('Write the formula',self.panel_to(eq │
+│ ❱  77 │   │   self.cue('So h squared plus twenty-five',self.panel_to(eq('h^2 │
+│    78 │   │   self.cue('H squared equals one hundred',self.panel_to(eq('h^2= │
+│    79 │   │   self.cue('Now take the square root',self.panel_to(eq(r'h=\sqrt │
+│    80 │   │   self.cue('So h equals twelve metres',Transform(g[2][1],txt('12 │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/long_form_py │
+│ thagoras/lesson_runtime.py:14 in eq                                          │
+│                                                                              │
+│   11 │   return Text(s,font='Lato',font_size=size,color=color)               │
+│   12                                                                         │
+│   13 def eq(s,size=42,color=INK):                                            │
+│ ❱ 14 │   return MathTex(s,font_size=size,color=color)                        │
+│   15                                                                         │
+│   16 def fit(m,width=6.5,height=4.7,center=(-2.8,-.1,0)):                    │
+│   17 │   factor=min(1,width/max(m.width,.001),height/max(m.height,.001))     │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/prototype/.v │
+│ env/lib/python3.10/site-packages/manim/mobject/text/tex_mobject.py:277 in    │
+│ __init__                                                                     │
+│                                                                              │
+│   274 │   │   self.brace_notation_split_occurred = False                     │
+│   275 │   │   self.tex_strings = self._break_up_tex_strings(tex_strings)     │
+│   276 │   │   try:                                                           │
+│ ❱ 277 │   │   │   super().__init__(                                          │
+│   278 │   │   │   │   self.arg_separator.join(self.tex_strings),             │
+│   279 │   │   │   │   tex_environment=self.tex_environment,                  │
+│   280 │   │   │   │   tex_template=self.tex_template,                        │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/prototype/.v │
+│ env/lib/python3.10/site-packages/manim/mobject/text/tex_mobject.py:85 in     │
+│ __init__                                                                     │
+│                                                                              │
+│    82 │   │   │   environment=self.tex_environment,                          │
+│    83 │   │   │   tex_template=self.tex_template,                            │
+│    84 │   │   )                                                              │
+│ ❱  85 │   │   super().__init__(                                              │
+│    86 │   │   │   file_name=file_name,                                       │
+│    87 │   │   │   should_center=should_center,                               │
+│    88 │   │   │   stroke_width=stroke_width,                                 │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/prototype/.v │
+│ env/lib/python3.10/site-packages/manim/mobject/svg/svg_mobject.py:145 in     │
+│ __init__                                                                     │
+│                                                                              │
+│   142 │   │   │   path_string_config = {}                                    │
+│   143 │   │   self.path_string_config = path_string_config                   │
+│   144 │   │                                                                  │
+│ ❱ 145 │   │   self.init_svg_mobject(use_svg_cache=use_svg_cache)             │
+│   146 │   │                                                                  │
+│   147 │   │   self.set_style(                                                │
+│   148 │   │   │   fill_color=fill_color,                                     │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/prototype/.v │
+│ env/lib/python3.10/site-packages/manim/mobject/svg/svg_mobject.py:171 in     │
+│ init_svg_mobject                                                             │
+│                                                                              │
+│   168 │   │   │   │   self.add(*mob)                                         │
+│   169 │   │   │   │   return                                                 │
+│   170 │   │                                                                  │
+│ ❱ 171 │   │   self.generate_mobject()                                        │
+│   172 │   │   if use_svg_cache:                                              │
+│   173 │   │   │   SVG_HASH_TO_MOB_MAP[hash_val] = self.copy()                │
+│   174                                                                        │
+│                                                                              │
+│ /home/pil-lab/toshith/manideep/meeting/education_content_review/prototype/.v │
+│ env/lib/python3.10/site-packages/manim/mobject/svg/svg_mobject.py:200 in     │
+│ generate_mobject                                                             │
+│                                                                              │
+│   197 │   │   new_tree.write(modified_file_path)                             │
+│   198 │   │                                                                  │
+│   199 │   │   svg = se.SVG.parse(modified_file_path)                         │
+│ ❱ 200 │   │   modified_file_path.unlink()                                    │
+│   201 │   │                                                                  │
+│   202 │   │   mobjects = self.get_mobjects_from(svg)                         │
+│   203 │   │   self.add(*mobjects)                                            │
+│                                                                              │
+│ /usr/lib/python3.10/pathlib.py:1206 in unlink                                │
+│                                                                              │
+│   1203 │   │   If the path is a directory, use rmdir() instead.              │
+│   1204 │   │   """                                                           │
+│   1205 │   │   try:                                                          │
+│ ❱ 1206 │   │   │   self._accessor.unlink(self)                               │
+│   1207 │   │   except FileNotFoundError:                                     │
+│   1208 │   │   │   if not missing_ok:                                        │
+│   1209 │   │   │   │   raise                                                 │
+╰──────────────────────────────────────────────────────────────────────────────╯
+FileNotFoundError: [Errno 2] No such file or directory: 
+'media/Tex/b5e05f822e2709dc_.svg'

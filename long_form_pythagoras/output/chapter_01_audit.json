@@ -1,0 +1,122 @@
+{
+  "bounds": [
+    {
+      "beat": "01",
+      "time": 25.933333333333316,
+      "bounds_violations": []
+    },
+    {
+      "beat": "02",
+      "time": 53.16666666666657,
+      "bounds_violations": []
+    },
+    {
+      "beat": "03",
+      "time": 80.7666666666663,
+      "bounds_violations": []
+    },
+    {
+      "beat": "04",
+      "time": 107.19999999999936,
+      "bounds_violations": []
+    }
+  ],
+  "cues": [
+    {
+      "beat": "01",
+      "phrase": "Picture a rectangular warehouse floor",
+      "target": 0.5,
+      "actual_before_wait": 0
+    },
+    {
+      "beat": "01",
+      "phrase": "It could travel four metres east",
+      "target": 8.068375,
+      "actual_before_wait": 1.700000000000002
+    },
+    {
+      "beat": "01",
+      "phrase": "then three metres north",
+      "target": 10.312725,
+      "actual_before_wait": 9.866666666666662
+    },
+    {
+      "beat": "01",
+      "phrase": "That route covers seven metres",
+      "target": 11.808958333333333,
+      "actual_before_wait": 11.69999999999999
+    },
+    {
+      "beat": "01",
+      "phrase": "But the robot can also drive straight",
+      "target": 13.917083333333332,
+      "actual_before_wait": 12.999999999999986
+    },
+    {
+      "beat": "02",
+      "phrase": "Look at those three line segments",
+      "target": 26.433333333333337,
+      "actual_before_wait": 25.933333333333316
+    },
+    {
+      "beat": "02",
+      "phrase": "Where the two legs meet",
+      "target": 34.85354166666667,
+      "actual_before_wait": 27.633333333333375
+    },
+    {
+      "beat": "02",
+      "phrase": "Keep watching that mark",
+      "target": 44.9435,
+      "actual_before_wait": 36.06666666666664
+    },
+    {
+      "beat": "03",
+      "phrase": "Before calculating, estimate",
+      "target": 53.66666666666667,
+      "actual_before_wait": 53.16666666666657
+    },
+    {
+      "beat": "03",
+      "phrase": "The diagonal is longer than either leg",
+      "target": 55.79541666666667,
+      "actual_before_wait": 54.866666666666504
+    },
+    {
+      "beat": "03",
+      "phrase": "But the straight path is shorter",
+      "target": 60.606458333333336,
+      "actual_before_wait": 56.999999999999766
+    },
+    {
+      "beat": "03",
+      "phrase": "An estimate gives us a way",
+      "target": 72.78420833333334,
+      "actual_before_wait": 61.7999999999997
+    },
+    {
+      "beat": "04",
+      "phrase": "Why would anyone think to square",
+      "target": 81.26666666666668,
+      "actual_before_wait": 80.7666666666663
+    },
+    {
+      "beat": "04",
+      "phrase": "Adding four and three gives seven",
+      "target": 83.97358333333335,
+      "actual_before_wait": 82.46666666666623
+    },
+    {
+      "beat": "04",
+      "phrase": "Squaring has a geometric meaning",
+      "target": 92.90041666666667,
+      "actual_before_wait": 85.16666666666616
+    },
+    {
+      "beat": "04",
+      "phrase": "How could comparing areas",
+      "target": 100.81629166666667,
+      "actual_before_wait": 94.09999999999943
+    }
+  ]
+}

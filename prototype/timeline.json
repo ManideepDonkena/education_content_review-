@@ -1,0 +1,83 @@
+[
+  {
+    "id": "question",
+    "text": "Why does two x squared plus three x squared equal five x squared? Let's make the symbols visible.",
+    "hold": 0.8,
+    "start": 0.0,
+    "audio_start": 0.4,
+    "audio_duration": 6.411625,
+    "duration": 7.633333333333334
+  },
+  {
+    "id": "unit",
+    "text": "Take a square with side length x, where x is positive. Its area is x squared.",
+    "hold": 0.8,
+    "start": 7.633333333333334,
+    "audio_start": 8.033333333333333,
+    "audio_duration": 5.7184375,
+    "duration": 6.933333333333334
+  },
+  {
+    "id": "groups",
+    "text": "Here are two such squares, and three more. Every tile has exactly the same area: x squared.",
+    "hold": 0.8,
+    "start": 14.566666666666666,
+    "audio_start": 14.966666666666667,
+    "audio_duration": 6.321875,
+    "duration": 7.533333333333333
+  },
+  {
+    "id": "combine",
+    "text": "Bring them together. Count five identical tiles. We changed how many we collected, not the area of each tile.",
+    "hold": 0.8,
+    "start": 22.1,
+    "audio_start": 22.5,
+    "audio_duration": 7.68225,
+    "duration": 8.9
+  },
+  {
+    "id": "factor",
+    "text": "So, two x squared plus three x squared is two plus three, times x squared. That is five x squared.",
+    "hold": 0.8,
+    "start": 31.0,
+    "audio_start": 31.4,
+    "audio_duration": 7.1476875,
+    "duration": 8.366666666666667
+  },
+  {
+    "id": "rule",
+    "text": "This is the distributive law. Add the coefficients, and keep the shared variable part unchanged. The identity holds for every real x.",
+    "hold": 0.8,
+    "start": 39.36666666666667,
+    "audio_start": 39.766666666666666,
+    "audio_duration": 8.4059375,
+    "duration": 9.633333333333333
+  },
+  {
+    "id": "contrast",
+    "text": "Addition keeps these terms as x squared. Multiplying x squared by x squared is different: that gives x to the fourth.",
+    "hold": 0.8,
+    "start": 49.0,
+    "audio_start": 49.4,
+    "audio_duration": 7.5478125,
+    "duration": 8.766666666666667
+  },
+  {
+    "id": "try",
+    "text": "Your turn. What is four x squared plus two x squared? Explain what changes, and what stays the same.",
+    "hold": 4.0,
+    "start": 57.766666666666666,
+    "audio_start": 58.166666666666664,
+    "audio_duration": 6.9296875,
+    "duration": 11.333333333333334
+  },
+  {
+    "id": "answer",
+    "text": "Six x squared. Four plus two gives six; x squared stays unchanged. Like terms combine because their variable parts match.",
+    "hold": 1.2,
+    "start": 69.1,
+    "audio_start": 69.5,
+    "audio_duration": 8.7530625,
+    "duration": 10.366666666666667
+  }
+]

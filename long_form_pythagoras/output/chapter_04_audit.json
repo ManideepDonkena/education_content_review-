@@ -1,0 +1,146 @@
+{
+  "bounds": [
+    {
+      "beat": "13",
+      "time": 25.266666666666726,
+      "bounds_violations": []
+    },
+    {
+      "beat": "14",
+      "time": 53.43333333333335,
+      "bounds_violations": []
+    },
+    {
+      "beat": "15",
+      "time": 85.93333333333295,
+      "bounds_violations": []
+    },
+    {
+      "beat": "16",
+      "time": 115.79999999999926,
+      "bounds_violations": []
+    }
+  ],
+  "cues": [
+    {
+      "beat": "13",
+      "phrase": "Let us build the proof",
+      "target": 0.5,
+      "actual_before_wait": 0
+    },
+    {
+      "beat": "13",
+      "phrase": "Take a right triangle",
+      "target": 2.072875,
+      "actual_before_wait": 1.700000000000002
+    },
+    {
+      "beat": "13",
+      "phrase": "Make four identical copies",
+      "target": 6.505541666666667,
+      "actual_before_wait": 3.2666666666666644
+    },
+    {
+      "beat": "13",
+      "phrase": "Around each outer edge",
+      "target": 13.789666666666665,
+      "actual_before_wait": 8.499999999999991
+    },
+    {
+      "beat": "13",
+      "phrase": "The four hypotenuses enclose",
+      "target": 20.861749999999997,
+      "actual_before_wait": 14.999999999999986
+    },
+    {
+      "beat": "14",
+      "phrase": "Is that central shape really a square",
+      "target": 25.76666666666665,
+      "actual_before_wait": 25.266666666666726
+    },
+    {
+      "beat": "14",
+      "phrase": "Each of its four sides is the hypotenuse",
+      "target": 30.137958333333316,
+      "actual_before_wait": 26.966666666666786
+    },
+    {
+      "beat": "14",
+      "phrase": "Focus on one central corner",
+      "target": 42.966124999999984,
+      "actual_before_wait": 31.333333333333513
+    },
+    {
+      "beat": "14",
+      "phrase": "Call those acute angles alpha and beta",
+      "target": 49.977249999999984,
+      "actual_before_wait": 44.566666666666755
+    },
+    {
+      "beat": "15",
+      "phrase": "The angles inside a triangle total",
+      "target": 53.93333333333334,
+      "actual_before_wait": 53.43333333333335
+    },
+    {
+      "beat": "15",
+      "phrase": "so alpha and beta together total ninety degrees",
+      "target": 61.87136944444445,
+      "actual_before_wait": 55.13333333333328
+    },
+    {
+      "beat": "15",
+      "phrase": "At the central corner",
+      "target": 65.51945833333333,
+      "actual_before_wait": 63.06666666666655
+    },
+    {
+      "beat": "15",
+      "phrase": "The central angle is therefore",
+      "target": 71.18404166666667,
+      "actual_before_wait": 66.73333333333315
+    },
+    {
+      "beat": "15",
+      "phrase": "The same reasoning works at all four corners",
+      "target": 78.09212500000001,
+      "actual_before_wait": 72.39999999999975
+    },
+    {
+      "beat": "15",
+      "phrase": "Equal sides and right angles",
+      "target": 81.04920833333334,
+      "actual_before_wait": 79.29999999999968
+    },
+    {
+      "beat": "16",
+      "phrase": "Check our three-four-five example",
+      "target": 86.43333333333334,
+      "actual_before_wait": 86.43333333333293
+    },
+    {
+      "beat": "16",
+      "phrase": "Each triangle has area",
+      "target": 92.10458333333334,
+      "actual_before_wait": 87.63333333333286
+    },
+    {
+      "beat": "16",
+      "phrase": "Four triangles occupy twenty-four",
+      "target": 96.93700000000001,
+      "actual_before_wait": 93.29999999999946
+    },
+    {
+      "beat": "16",
+      "phrase": "The space remaining",
+      "target": 100.40658333333334,
+      "actual_before_wait": 98.13333333333273
+    },
+    {
+      "beat": "16",
+      "phrase": "Now we will repeat this calculation with letters",
+      "target": 108.76516666666667,
+      "actual_before_wait": 101.59999999999933
+    }
+  ]
+}
